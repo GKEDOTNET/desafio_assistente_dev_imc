@@ -1,7 +1,6 @@
 # Calculadora IMC - Gustavo Kovaleski Estlin
 <hr>
-<b>Descrição do desafio:</b>
-<hr>
+<h3>Descrição do desafio:</h3>
 Desenvolva uma aplicação que calcule o IMC de indivíduos. Para isso, você deve
 elaborar uma tela que solicite e grave no banco de dados as informações necessárias para o
 cálculo. Com base nestes dados sua aplicação deve calcular o IMC e exibir a classificação
