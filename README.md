@@ -25,10 +25,10 @@ instalação e utilização, modelo do banco de dados, bem como quaisquer outras
 você achar necessário;
 <hr>
 
-<h2>Como testar:</h2>
+<h2>Como executar o projeto: </h2>
 <h3> Acesso direto: </h3>
 
-• Acessando diretamente pelo link:
+• Acessando diretamente pelo link: http://kovaleski.kinghost.net/
 
 <h3> Para executar localmente em Sistemas Windows: </h3>
 
