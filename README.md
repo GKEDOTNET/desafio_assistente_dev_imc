@@ -45,4 +45,18 @@ você achar necessário;
 • Acessar pelo terminal o diretório do projeto clonado e rodar: php -S localhost:9000
 
 • Abrir o navegador e digitar: localhost:9000
+
+<h3> Utilização: </h3>
+
+• No campo "Nome" deverá ser inserido o nome do individuo;
+
+• No campo "Altura" deverá ser inserido a altura do individuo;
+
+• No campo "Peso" deve ser inserido o peso do inviduo;
+
+•  Para executar o calculo do IMC deverá ser clicado no botão "Calcular IMC";
+
+• Na tabela abaixo do botão será exibido o Resultado;
+
+• Para excluir um registro da tabela deverá ir até o registro desejado e clicar no botão "Excluir".
 <hr>
